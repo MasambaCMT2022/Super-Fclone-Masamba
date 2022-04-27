@@ -1,10 +1,10 @@
 {
 	"name": "Super Fclone Bot",
 	"description": "Super Fclone Bot",
-	"repository": "https://github.com/kzinthant-kas/superfclone",
+	"repository": "https://github.com/MasambaCMT2022/Super-Fclone-Masamba",
 	"keywords": ["fclone","FG"],
-        "website": "https://t.me/drivetalk",
-        "success_url": "https://github.com/kzinthant-kas/superfclone/blob/main/README.md",
+        "website": "https://t.me/Collection_MovieTerbaik",
+        "success_url": "https://github.com/MasambaCMT2022/Super-Fclone-Masamba/blob/main/README.md",
 	"env": {
 		"telegram_token": {
 			"description": "Get one from @botfather by creating new bot"
